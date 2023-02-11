@@ -3,7 +3,7 @@
 A new Flutter project.
 # screen shot
 <p float="left">
-![Screenshot_1675228566](https://user-images.githubusercontent.com/74816647/218186865-f7eb98a4-e3b6-4aa2-bcdf-070f75dadd4e.png)
+<img src="https://user-images.githubusercontent.com/74816647/218186865-f7eb98a4-e3b6-4aa2-bcdf-070f75dadd4e.png" width="200" hight="200"  />
 ![Screenshot_1675228573](https://user-images.githubusercontent.com/74816647/218186878-abddf22f-8d7d-4343-b517-e81875fbbcf6.png)
 ![Screenshot_1676059725](https://user-images.githubusercontent.com/74816647/218187222-20d6fe2c-e03a-45c0-ae88-9b2e463e36e2.png)
 </p>
